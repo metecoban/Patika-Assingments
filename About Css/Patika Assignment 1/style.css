@@ -1,0 +1,54 @@
+* {
+    text-align: center;
+}
+
+ul, ol {
+    display: inline-block;
+}
+
+ol li article img {
+    height: 200px;
+    border-radius: 25%;
+}
+
+ul li {
+    list-style-type: square;
+}
+
+a {
+    margin-left: 5px;
+    padding: 3px;
+    background-color:chocolate;
+    color: whitesmoke;
+    text-decoration: none;
+    border-radius: 5%;
+}
+
+a:hover {
+    background-color: whitesmoke;
+    color: chocolate;
+}
+
+.labelf-14 {
+    font-size: 14px;
+}
+
+.arrange-store-img {
+    margin: 10px;
+    margin-top: 20px;
+    width: 500px;
+    border-radius: 5%;
+}
+
+#label {
+    color: lightseagreen;
+}
+
+footer{
+    font-size: small;
+    font-style: italic;
+    background-color: lightpink;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 5%;
+}
